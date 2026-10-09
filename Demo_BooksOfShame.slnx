@@ -4,7 +4,7 @@
   </Folder>
   <Project Path="Demo_BooksOfShame.BLL/Demo_BooksOfShame.BLL.csproj" />
   <Project Path="Demo_BooksOfShame.DAL/Demo_BooksOfShame.DAL.csproj" />
-  <Project Path="Demo_BooksOfShame.DB/Demo_BooksOfShame.DB.sqlproj">
+  <Project Path="Demo_BooksOfShame.DB/Demo_BooksOfShame.DB.sqlproj" Id="11d69475-0060-417f-a814-e5cd9c8132d7">
     <Build />
     <Deploy />
   </Project>
