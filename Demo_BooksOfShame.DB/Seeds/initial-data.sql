@@ -15,7 +15,7 @@ VALUES
 SET IDENTITY_INSERT [dbo].[Book_Status] OFF;
 
 -- Book
-INSERT INTO [dbo].[Book] ([Title], [Desc], [StatusId])
+INSERT INTO [dbo].[Book] ([Title], [Desc], [Status_Id])
 VALUES
 	(N'Guerre et Paix', N'La société russe face aux guerres napoléoniennes.', 1),
 	(N'1984', N'Winston Smith vit sous la surveillance permanente de Big Brother.', 2),

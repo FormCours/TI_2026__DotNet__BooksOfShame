@@ -66,4 +66,7 @@
   <ItemGroup>
     <PostDeploy Include="Seeds\initial-data.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Demo_BooksOfShame.DB.publish.xml" />
+  </ItemGroup>
 </Project>
